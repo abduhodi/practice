@@ -1,0 +1,4 @@
+{
+  "port": 3030,
+  "dbUri": "mongodb://localhost:27017/Joi_practice"
+}
